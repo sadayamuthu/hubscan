@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using these metadata."
+type: software
+title: "HubScan: Find poisoned documents in RAG corpora by geometry"
+abstract: >-
+  HubScan detects poisoned documents in retrieval-augmented generation corpora
+  by their hubness in embedding space, the topical spread of the queries they
+  answer, and instruction-like content, without attack signatures.
+authors:
+  - family-names: Sadayamuthu
+    given-names: Karthikeyan
+    orcid: "https://orcid.org/0009-0008-3539-6048"
+license: Apache-2.0
+repository-code: "https://github.com/sadayamuthu/hubscan"
+url: "https://openastra.org"
+keywords:
+  - RAG
+  - data poisoning
+  - embeddings
+  - hubness
+  - LLM security
