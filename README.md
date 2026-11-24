@@ -114,7 +114,7 @@ The plan, from the first working version to 1.0, is in [ROADMAP.md](ROADMAP.md).
 ## Related OpenAstra projects
 
 - [Tripwire](https://github.com/sadayamuthu/tripwire) and [ACLDrift](https://github.com/sadayamuthu/acldrift): the other two RAG data checks
-- [Taintline](https://github.com/sadayamuthu/taintline): treats retrieved content as untrusted at runtime
+- [AgentTaint](https://github.com/sadayamuthu/agenttaint): treats retrieved content as untrusted at runtime
 
 ---
 
